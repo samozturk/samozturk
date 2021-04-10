@@ -1,6 +1,6 @@
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/yXfC9qv/unnamed-1-1.jpg" alt="unnamed-1-1" border="10"></a>
 
-<h1 align="right">Hi 👋, I'm Sam</h1>
+
+<h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">AI Engineer from Turkey</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samozturk" alt="samozturk" /></a> </p>
