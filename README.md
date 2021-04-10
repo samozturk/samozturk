@@ -1,3 +1,5 @@
+<a href="https://ibb.co/m8xW9x8"><img src="https://i.ibb.co/m8xW9x8/unnamed.jpg" alt="unnamed" border="0"></a>
+
 <h1 align="right">Hi 👋, I'm Sam</h1>
 <h3 align="center">AI Engineer from Turkey</h3>
 
