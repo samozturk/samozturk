@@ -1,4 +1,4 @@
-<a href="https://ibb.co/m8xW9x8"><img src="https://i.ibb.co/3zJZpJz/unnamed.jpg" alt="unnamed" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/yXfC9qv/unnamed-1-1.jpg" alt="unnamed-1-1" border="10"></a>
 
 <h1 align="right">Hi 👋, I'm Sam</h1>
 <h3 align="center">AI Engineer from Turkey</h3>
