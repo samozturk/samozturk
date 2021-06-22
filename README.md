@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **enterprise level MLOps solutions**
 
-- 🌱 I’m currently learning **designing ML pipelines with TFX**
+- 🌱 I’m currently learning **Machine Learning Engineering for Production**
 
 - 👯 I’m looking to collaborate on **deploying ML models on GCP**
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://themeansquare.medium.com](https://themeansquare.medium.com)
 
-- 💬 Ask me about **machine learning, MLOps, google cloud, big data**
+- 💬 Ask me about **Machine Learning, MLOps, Google Cloud Platform, Big Data**
 
 - 📫 How to reach me **ssamozturk@gmail.com**
 
