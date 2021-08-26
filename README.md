@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">AI Engineer from Turkey</h3>
+<h3 align="center">ML Engineer from Istanbul</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samozturk" alt="samozturk" /></a> </p>
 
