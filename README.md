@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sam_econ" target="blank"><img src="https://img.shields.io/twitter/follow/sam_econ?logo=twitter&style=for-the-badge" alt="sam_econ" /></a> </p>
 
-- 🔭 I’m currently working on [creating internal APIs @tazi.ai](https://www.tazi.ai)
+- 🔭 I’m currently working on [creating internal APIs for monitoring @tazi.ai](https://www.tazi.ai)
 
 - 🌱 I’m currently learning **FastAPI, PEP-8 Guidelines.**
 
