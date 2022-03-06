@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sam_econ" target="blank"><img src="https://img.shields.io/twitter/follow/sam_econ?logo=twitter&style=for-the-badge" alt="sam_econ" /></a> </p>
 
-- 🔭 I’m currently working on [creating internal APIs for monitoring @tazi.ai](https://www.tazi.ai)
+- 🔭 I’m currently working on [setting up prometheus and grafana for monitoring @tazi.ai](https://www.tazi.ai)
 
-- 🌱 I’m currently learning **FastAPI, PEP-8 Guidelines.**
+- 🌱 I’m currently learning **Nginx, Prometheus, Grafana, ELK Stack, Spark, Kubeflow Pipelines.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/samozturk?tab=repositories](https://github.com/samozturk?tab=repositories)
 
