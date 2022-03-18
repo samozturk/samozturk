@@ -15,5 +15,5 @@
             # Use this username's contribution graph  
             user_name: samozturk
             # Text on contribution graph 
-            text: Sam Ozturk
+            text: Sam Oz
        - uses: jasineri/simple-push-action@v1
