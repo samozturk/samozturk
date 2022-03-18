@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">MLOps Engineer from Istanbul</h3>
-![gitartwork](gitartwork.svg)
+<img src="https://raw.githubusercontent.com/samozturk/samozturk/457a283a30dfeca98e8e7cd776732cddf5a9f4c7/gitartwork.svg" alt="github" /> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samozturk&label=Profile%20views&color=0e75b6&style=flat" alt="samozturk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samozturk" alt="samozturk" /></a> </p>
