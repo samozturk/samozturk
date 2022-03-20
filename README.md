@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [setting up prometheus and grafana for monitoring @tazi.ai](https://www.tazi.ai)
 
-- 🌱 I’m currently learning **Nginx, Prometheus, Grafana, ELK Stack, Spark, Kubeflow Pipelines.**
+- 🌱 I’m currently learning **Golang.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/samozturk?tab=repositories](https://github.com/samozturk?tab=repositories)
 
