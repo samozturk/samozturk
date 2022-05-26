@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/devmlops" target="blank"><img src="https://img.shields.io/twitter/follow/devmlops?logo=twitter&style=for-the-badge" alt="devmlops" /></a> </p>
 
-- 🔭 I’m currently working on **setting up Gitlab CI pipelines for tazi.ai**
+- 🔭 I’m currently working on **creating CLI apps in Go for tazi.ai**
 
 - 🌱 I’m currently learning **Go**
 
