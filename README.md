@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [developing CLI apps for data scientists](https://github.com/samozturk/condainer-cli)
 
-- 🌱 I’m currently learning **Pytorch**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/samozturk?tab=repositories](https://github.com/samozturk?tab=repositories)
 
