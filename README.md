@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/devmlops" target="blank"><img src="https://img.shields.io/twitter/follow/devmlops?logo=twitter&style=for-the-badge" alt="devmlops" /></a> </p>
 
-- 🔭 I’m currently working on [developing CLI apps for data scientists](https://github.com/samozturk/condainer-cli)
+- 🔭 I’m currently working on **Building ML pipelines in Vertex AI**
 
 - 🌱 I’m currently learning **Rust**
 
