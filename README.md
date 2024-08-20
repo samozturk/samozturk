@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/devmlops" target="blank"><img src="https://img.shields.io/twitter/follow/devmlops?logo=twitter&style=for-the-badge" alt="devmlops" /></a> </p>
 
-- 🔭 I’m currently working on **Building ML pipelines in Vertex AI**
+- 🔭 I’m currently working on **Building a Travel App**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust**, **Vector Databases**
 
 - 👨‍💻 All of my projects are available at [https://github.com/samozturk?tab=repositories](https://github.com/samozturk?tab=repositories)
 
 - 📝 I regularly write articles on [https://themeansquare.medium.com](https://themeansquare.medium.com)
 
-- 💬 Ask me about **Machine Learning, MLOps, Google Cloud Platform, Docker**
+- 💬 Ask me about **Machine Learning, MLOps, Google Cloud Platform, Docker, Data Engineering**
 
 - 📫 How to reach me **ssamozturk@gmail.com**
 
