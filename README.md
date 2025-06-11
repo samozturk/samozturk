@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Building a Travel App**
 
-- 🌱 I’m currently learning **LLMS**, **Vector Databases**, **Advanced RAG**
+- 🌱 I’m currently learning **Agents**
 
 - 👨‍💻 All of my projects are available at [https://github.com/samozturk?tab=repositories](https://github.com/samozturk?tab=repositories)
 
