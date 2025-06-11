@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ssamozturk@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/samet-öztürk-645520120/](https://www.linkedin.com/in/samet-öztürk-645520120/)
+- 📄 Know about my experiences on my [Linkedin](https://www.linkedin.com/in/sam-öztürk-645520120/)
 
 - ⚡ Fun fact **I lift weights and punch bags for fun**
 
