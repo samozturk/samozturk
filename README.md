@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/samozturk/samozturk/457a283a30dfeca98e8e7cd776732cddf5a9f4c7/gitartwork.svg" alt="github" /> 
 
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">MLOps Engineer</h3>
+<h3 align="center">AI Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/devmlops" target="blank"><img src="https://img.shields.io/twitter/follow/devmlops?logo=twitter&style=for-the-badge" alt="devmlops" /></a> </p>
 
